@@ -19,7 +19,7 @@ function Navbar() {
 		</div>
 		<div className="gpt3__navbar-sign">
 			<p>Sign in</p>
-			<button type='button'>Sign u</button>
+			<button type='button'>Sign up</button>
 		</div>
 		</div>
 	</div>
